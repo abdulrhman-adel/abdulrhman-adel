@@ -14,7 +14,7 @@
   <a href="https://discord.com/users/803744226742370305">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a> 
-  <a href="#">
+  <a href="[#](https://www.youtube.com/@TechWithNova)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
