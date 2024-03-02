@@ -8,13 +8,13 @@
 
 <!-- Social network badges -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abdulrhmanadel">
+  <a href="https://www.linkedin.com/in/abdulrhmanadel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com/users/803744226742370305">
+  <a href="https://discord.com/users/803744226742370305" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a> 
-  <a href="[#](https://www.youtube.com/@TechWithNova)">
+  <a href="https://www.youtube.com/@TechWithNova" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
