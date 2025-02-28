@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Stack Overflow and read tech articles.
 
-- :mailbox:How to reach me: **easycode.404@gmail.com**
+- :mailbox:How to reach me: **abdulrhman.adel@outlook.com**
 
 <!-- language & tools -->
 ---
